@@ -14,6 +14,6 @@ You can find the complete problem statement [here](https://github.com/shiv-goel/
 
 Python notebook corresponding to Task 1 is [Task 1](https://github.com/shiv-goel/Audio-Event-Detection/blob/master/MLSP_Project_Final.ipynb) and the one corresponding to Task 2 is [Task 2](https://github.com/shiv-goel/Audio-Event-Detection/blob/master/MLSP_Project_Final(2).ipynb).
 
-You can find the project report here: [Project Report](https://github.com/shiv-goel/Audio-Event-Detection/blob/master/MLSP%20Course%20Project%20Report.docx)
+You can find the project report [here](https://github.com/shiv-goel/Audio-Event-Detection/blob/master/MLSP%20Course%20Project%20Report.docx)
 
 
