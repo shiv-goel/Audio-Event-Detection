@@ -9,7 +9,7 @@ Evaluation: Accuracy\
 TASK 2: Given an audio file contains a sequence of events occurring one after the other, find out that sequence of events. A sequence can contain at least 1 and at most 5 events.\
 Evaluation: Edit distance\
     • Return sequence of classes separated by hyphen "-". 
-        ◦ E.g. street_music-dog_bark-engine_idling \
+        e.g. street_music-dog_bark-engine_idling \
     • Labels would not repeat consecutively, e.g., street_music-dog_bark-dog_bark will be labeled as street_music-dog_bark
 
 The complete problem statement can be found [here](https://github.com/shiv-goel/Audio-Event-Detection/blob/master/README.docx).
