@@ -12,3 +12,6 @@ Evaluation: Edit distance\
 
 The "README.docx" file contains the complete problem statement.\
 
+Python notebook corresponding to Task 1 is named "MLSP_Project_Final.ipynb" and the one corresponding to Task 2 is name "MLSP_Project_Final(2).ipynb".\
+
+
